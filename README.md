@@ -29,7 +29,7 @@ Successfully led the project to achieve full authorization for the information s
 https://github.com/Sebanks1/RMF-Process-Case-Study/blob/main/RMF%20Process%20Case%20Study.pdf
 
 ## Plan of Action & Milestone (POA&M) Example
-https://github.com/Sebanks1/RMF-Process-Case-Study/blob/main/Winterfell-Moderate-POAM.xlsx 
+(https://docs.google.com/spreadsheets/d/1W457i80OCiJFVOUD8XIbvBXp0bEnL0aSInDhU7fZz00/edit?usp=sharing) 
 
 ## Authority to Operate (ATO) Example Letter
 https://github.com/Sebanks1/RMF-Process-Case-Study/blob/main/Winterfell-ATO-Letter.pdf 
