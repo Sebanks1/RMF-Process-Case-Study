@@ -27,3 +27,6 @@ Successfully led the project to achieve full authorization for the information s
 
 ## RMF Process
 https://github.com/Sebanks1/RMF-Process-Case-Study/blob/main/RMF%20Process%20Case%20Study.pdf
+
+## Authority to Operate (ATO) Example Letter
+https://github.com/Sebanks1/RMF-Process-Case-Study/blob/main/Winterfell-ATO-Letter.pdf 
