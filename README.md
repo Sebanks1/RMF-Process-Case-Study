@@ -1,4 +1,3 @@
-# RMF-Process-Case-Study
 # RMF Compliance and Authorization Project
 
 ## Overview
@@ -26,3 +25,5 @@ This project involved leading the **Risk Management Framework (RMF)** process fo
 ## Outcome
 Successfully led the project to achieve full authorization for the information system, improving overall **security posture** and **compliance** with federal standards, while also ensuring ongoing risk management and continuous monitoring practices were in place.
 
+## RMF Process
+https://github.com/Sebanks1/RMF-Process-Case-Study/blob/main/RMF%20Process%20Case%20Study.pdf
